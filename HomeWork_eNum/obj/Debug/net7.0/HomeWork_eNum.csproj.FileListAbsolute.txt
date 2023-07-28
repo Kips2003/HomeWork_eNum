@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\bin\Debug\net7.0\HomeWork_eNum.exe
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\bin\Debug\net7.0\HomeWork_eNum.deps.json
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\bin\Debug\net7.0\HomeWork_eNum.runtimeconfig.json
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\bin\Debug\net7.0\HomeWork_eNum.dll
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\bin\Debug\net7.0\HomeWork_eNum.pdb
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\obj\Debug\net7.0\HomeWork_eNum.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\obj\Debug\net7.0\HomeWork_eNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\obj\Debug\net7.0\HomeWork_eNum.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\obj\Debug\net7.0\HomeWork_eNum.AssemblyInfo.cs
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\obj\Debug\net7.0\HomeWork_eNum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\obj\Debug\net7.0\HomeWork_eNum.dll
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\obj\Debug\net7.0\refint\HomeWork_eNum.dll
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\obj\Debug\net7.0\HomeWork_eNum.pdb
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\obj\Debug\net7.0\HomeWork_eNum.genruntimeconfig.cache
+C:\Users\Admin\Documents\c# learning\HomeWork_eNum\obj\Debug\net7.0\ref\HomeWork_eNum.dll
